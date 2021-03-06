@@ -18,3 +18,5 @@ else:
     print("\n'A' não é igual há 2, 1 nem 0. 'A' tem valor de " + str(a) + ".")
 
 print("Olá")
+
+print("nathan")
